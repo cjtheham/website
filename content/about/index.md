@@ -6,4 +6,6 @@ eleventyNavigation:
 ---
 # About Me
 
-I am a person that writes stuff.
+This page is under construction.
+
+[Fediverse](https://alpha.polymaths.social/@roguefoam) (@roguefoam@alpha.polymaths.social)
