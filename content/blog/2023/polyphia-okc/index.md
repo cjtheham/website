@@ -35,9 +35,9 @@ I thought it would be nice to post about this experience here alongside the setl
 
 <!--TODO: responsive image shortcodes, figure captions-->
 
-{% image "IMG_6247.jpg", "Tim Henson on stage, playing with his foot up on a pedal board", [100, 600], "100w, 600w" %}
+{% image "IMG_6247.JPG", "Tim Henson on stage, playing with his foot up on a pedal board", [100, 600], "100w, 600w" %}
 
 {% image "backToBack.jpeg", "Tim Henson and Scott LePage play back to back on a green-lit stage", [100, 600], "100w, 600w" %}
 
-{% image "IMG_6287.jpg", "Tim Henson holding his guitar up in the air, while crowd members hold up rock signs and hearts", [100, 600], "100w, 600w" %}
+{% image "IMG_6287.JPG", "Tim Henson holding his guitar up in the air, while crowd members hold up rock signs and hearts", [100, 600], "100w, 600w" %}
 
