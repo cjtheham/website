@@ -1,8 +1,11 @@
 ---
 title: "Anthem by Ayn Rand"
 date: 2023-09-25
+updated: 2023-09-29
 tags: ['books']
 draft: false
+pages: 79
+finished: 2023-09-24
 ---
 
 Early on in my freshman year of college, I was given an assignment to interview a professor and get to know them a bit more. As a part of this interview, we were allowed to write our own questions or use some from a pre-made list. One of the pre-made questions was “If you could require that I read one book before I graduate, what book would it be?”
@@ -26,3 +29,5 @@ To conclude this, I’d like to share one of the interesting quotes from the boo
 > "I am neither foe nor friend to my brothers, but such as each of them shall deserve of me. And to earn my love, my brothers must do more than to have been born. I do not grant my love without reason, nor to any chance passer-by who may wish to claim it. I honor men with my love. But honor is a thing to be earned."
 \- Equality 7-2521 (*Anthem*)
 
+## Also Published On
+* [Storygraph](https://app.thestorygraph.com/reviews/47a4cc75-6e0e-4d93-bcfe-d86c6be3f46c)
