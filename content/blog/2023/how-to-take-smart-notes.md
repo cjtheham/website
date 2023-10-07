@@ -8,6 +8,8 @@ pages: 215
 finished: 2023-10-06
 ---
 
+![Cover of How to Take Smart Notes, by Sonke Ahrens from Storygraph Website](https://cdn.thestorygraph.com/9cjaqkbkcwpw4iqxx8w4uuka3ej0)
+
 I was first introduced to this book by way of the [Obsidian](https://obsidian.md) Discord Server Book Club, and was intrigued as a current student on any ways I could improve my note-taking. Unfortunately, I don't think the bulk of this book was for me.
 
 Sönke Ahrens spends most of his writing focused on the joys of Niklas Luhmann's Zettelkasten system, which is an interesting tactic for note-taking and building up a database of ideas and information. In fact, I have done plenty of research and attempts at starting my own Zettelkasten system. But, this book lacks in the area of describing what makes good and interesting content for notes, that could then become useful for future academic writing, and instead just tells the reader to write.
