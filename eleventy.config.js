@@ -78,6 +78,8 @@ module.exports = function(eleventyConfig) {
 		return (tags || []).filter(tag => ["all", "nav", "post", "posts"].indexOf(tag) === -1);
 	});
 
+	const markdownItFootnotes = require('markdown-it-footnote');
+
 	// Customize Markdown library settings:
 	eleventyConfig.amendLibrary("md", mdLib => {
 		mdLib.use(markdownItAnchor, {
@@ -90,6 +92,10 @@ module.exports = function(eleventyConfig) {
 			level: [1,2,3,4],
 			slugify: eleventyConfig.getFilter("slugify")
 		});
+	});
+
+	eleventyConfig.amendLibrary("md", mdLib => {
+		mdLib.use(markdownItFootnotes)
 	});
 
 	// Features to make your build faster (when you need them)
